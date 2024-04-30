@@ -6,8 +6,12 @@ main {
     width: 100%;
 }
 
+.row {
+    display: flex;
+}
+
 .column {
-    width: 50%;
+    flex: 50%;
 }
 
 .right-column {
