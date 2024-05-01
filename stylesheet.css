@@ -36,6 +36,11 @@ main {
   text-align: center;
 }
 
+.left-align {
+  text-align: left !important;
+  padding-left: 30px !important;
+}
+
 .right-column {
   border-left: 2px solid black;
 }
