@@ -4,14 +4,19 @@ body {
 
 main {
     width: 100%;
+    display: flex;
+    flex-direction: column;
 }
 
 .row {
     display: flex;
+    flex-direction: row;
+    flex: 50%;
 }
 
 .column {
     flex: 50%;
+    text-align: center;
 }
 
 .right-column {
