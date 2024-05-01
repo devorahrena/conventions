@@ -1,28 +1,28 @@
 body {
-    background-color: lightgrey;
+  background-color: lightgrey;
 }
 
 main {
-    width: 100%;
-    display: flex;
-    flex-direction: column;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
 }
 
 .row {
-    display: flex;
-    flex-direction: row;
-    flex: 50%;
+  display: flex;
+  flex-direction: row;
+  flex: 50%;
 }
 
 .column {
-    flex: 50%;
-    text-align: center;
+  flex: 50%;
+  text-align: center;
 }
 
 .right-column {
-    border-left: 2px solid black;
+  border-left: 2px solid black;
 }
 
 .left-column {
-    border-right: 2px solid black;
+  border-right: 2px solid black;
 }
