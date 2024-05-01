@@ -29,10 +29,6 @@ main {
   flex: 73vh;
 }
 
-.list-item {
-  flex: 10%;
-}
-
 .column {
   flex: 50%;
   display: flex;
