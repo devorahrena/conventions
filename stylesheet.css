@@ -1,4 +1,8 @@
+html {
+  height: 100%;
+}
 body {
+  min-height: 100%;
   background-color: lightgrey;
   font-family: Tahoma, Verdana, sans-serif;
 }
@@ -10,21 +14,17 @@ main {
   flex-direction: column;
 }
 
-/* .row {
-  display: flex;
-  flex-direction: row;
-} */
-
-.quarter {
-  flex: 25%;
+.row {
   display: flex;
   flex-direction: row;
 }
 
+.quarter {
+  flex: 25%;
+}
+
 .three-quarter {
   flex: 75%;
-  display: flex;
-  flex-direction: row;
 }
 
 .list-item {
