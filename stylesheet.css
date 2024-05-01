@@ -15,7 +15,7 @@ main {
 }
 
 .list-item {
-  flex: 50%;
+  flex: 25%;
 }
 
 .column {
