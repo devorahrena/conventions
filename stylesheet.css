@@ -40,11 +40,6 @@ main {
   border-right: 2px solid black;
 }
 
-a {
-  color: teal;
-  text-decoration: none;
-}
-
 a:link, a:visited {
   color: teal;
   text-decoration: none;
